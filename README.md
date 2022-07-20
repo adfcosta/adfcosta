@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭  Aluno Trybe
-- 🤔 Interessado em aprender Kotlin e Flutter
+- 🔭  Aluno Trybe, estudante de Desenvolvimento Web Full Stack
+- 🌱 Desenvolvedor Web Front-End pela Trybe
 - 😄 Pronomes: Ele/Dele 
 
 ##
